@@ -2,7 +2,13 @@
   "permissions": {
     "allow": [
       "Bash(java -version:*)",
-      "Bash(gradle:*)"
+      "Bash(gradle:*)",
+      "Bash(git -C /Users/loft/Development/DevSchool/SDT1-ShortBig_ClaudeTest log --oneline -5)",
+      "Bash(git -C /Users/loft/Development/DevSchool/SDT1-ShortBig_ClaudeTest status)",
+      "Bash(git -C /Users/loft/Development/DevSchool/SDT1-ShortBig_ClaudeTest remote:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
     ]
   }
 }
