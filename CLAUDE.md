@@ -45,6 +45,11 @@ All entities use `UUID` for primary keys (except Stock which uses its symbol). E
 Mandatory: real-time stock chart (F1), buy (F2), sell (F3), view portfolio (F4), win condition at target balance (F5).
 Optional: transaction history (F6), portfolio balance history (F7), multiple portfolios (F8).
 
+## Reference Markdowns
+- For original requirements and project description, see /documentation/Requirements.md
+- For entity Class Diagram, see /documentation/assignment1/Class Diagram0.svg
+- For initial domain entity draft, see /documentation/session1/domain_entities.md
+
 ## Current State
 
 Entity layer is scaffolded but incomplete — most classes lack getters/setters and have TODO comments. All other layers are empty placeholder directories.
