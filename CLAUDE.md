@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Stock trading game — a JavaFX desktop application where users buy/sell simulated stocks to grow their portfolio balance. DevSchool (SDT1) learning project.
 
-**Tech stack**: Java, JavaFX (UI), file-based persistence.
+**Tech stack**: Java, JavaFX (UI), file-based persistence simulating database like structure and flow.
 
 ## Build & Run
 
